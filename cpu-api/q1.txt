@@ -1,0 +1,4 @@
+[ CHILD][PID:55696] before change            | variable x: 100 | address of x: 0x7ffda2749560
+[ CHILD][PID:55696] after change             | variable x: 200 | address of x: 0x7ffda2749560
+[PARENT][PID:55695] child process complete   | variable x: 100 | address of x: 0x7ffda2749560
+[PARENT][PID:55695] parent process           | variable x: 100 | address of x: 0x7ffda2749560
