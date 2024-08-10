@@ -1,1 +1,2 @@
-CCPCCPCPPP
+[ CHILD][PID:806] hello!                    
+[PARENT][PID:805] goodbye.                  
